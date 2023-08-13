@@ -36,7 +36,7 @@ To address the above-stated problems, SQL queries were written to obtain data [C
 - The most successful sales people are sales person ID 276 and sales person ID 277, who generated $293,586,770 and $103,670,070 in revenue, respectively. Sales person ID 285 generated the least profit, with only $172,524.50 in revenue.
 - Customers in all territories were motivated to purchase products from AdventureWorks because of the affordable prices of the products compared to their competitors. Regular promotions were also a motivating factor, but magazine advertisements yielded no positive results.
 
-![](Picturedashboard.png)
+![](dashboard.png)
 
 ---
 CONCLUSION
